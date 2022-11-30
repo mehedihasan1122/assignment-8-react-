@@ -1,0 +1,16 @@
+.cart-items{
+    display: inline-block;
+    margin: 20px 0;
+}
+
+.breaktime-btn{
+    border: 2px solid red;
+    border-radius: 20px;
+    background-color: rgb(255, 0, 0);
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.breaktime-btn:hover{
+    background-color: rgba(5, 100, 0, 0.85);
+}
